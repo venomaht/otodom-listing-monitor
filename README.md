@@ -1,3 +1,11 @@
+## Uruchomienie
+
+```bash
+git clone https://github.com/venomaht/otodom-listing-monitor.git
+cd otodom-listing-monitor
+docker compose up --build
+
+
 # Otodom Listing Monitor
 
 Aplikacja w Pythonie do automatycznego monitorowania ogłoszeń mieszkań z Otodom.pl dla wybranej lokalizacji.
